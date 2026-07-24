@@ -1,5 +1,12 @@
 # A Field Guide to a Small, Serious Homelab
 
+**Most homelab write-ups are hardware lists and copy-paste command dumps. This is the other
+thing** — the principles, gotchas, and judgment calls that actually transfer when your setup
+looks nothing like mine. It's a compact field guide backed by four real war stories (a networking
+bug, a monitoring design, a storage-security audit, and an observability rollout), all genericized
+so none of it is anyone's actual network. If a single page here saves you a debugging session,
+it's done its job.
+
 Notes from running a small home lab as if it were production — enough to actually learn
 the patterns that matter (monitoring, backups, network segmentation, incident response),
 without pretending to be a datacenter.
