@@ -243,6 +243,9 @@ CC-BY-4.0`) — use it, adapt it, even commercially; just give attribution:
 
 Corrections and additional war stories are welcome via issues or pull requests.
 
+**⭐ If a page here saved you a debugging session, star the repo — that's what helps the next
+person find it.**
+
 ---
 
 *Written from real experience running a small homelab; all specifics genericized. If a section
