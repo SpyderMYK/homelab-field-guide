@@ -204,6 +204,10 @@ wrong turns:
   — using NIST SP 800-209 as a checklist: three "findings" that were wrong once verified, an NFS
   export open to everything and used by nothing, alerting that had never delivered, and the 3-2-1
   gap behind a ZFS mirror.
+- **[Rolling out fleet-wide observability — and what it revealed](case-studies/fleet-wide-observability-rollout.md)**
+  — getting an exporter onto every host (and the LaunchAgent-vs-LaunchDaemon reboot trap), the
+  single-file-Docker-bind-mount inode gotcha, config-as-code from one source of truth, and the
+  backup single-point-of-failure the rollout exposed.
 
 ---
 
