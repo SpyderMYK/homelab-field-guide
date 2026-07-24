@@ -200,6 +200,10 @@ wrong turns:
   — a design journey through three approaches (Pushgateway → hosted heartbeat → node_exporter
   textfile collector), why the first two were rejected, and the logout-tolerant alert query that
   makes it robust.
+- **[Auditing homelab storage against a real security standard](case-studies/auditing-homelab-storage-against-nist.md)**
+  — using NIST SP 800-209 as a checklist: three "findings" that were wrong once verified, an NFS
+  export open to everything and used by nothing, alerting that had never delivered, and the 3-2-1
+  gap behind a ZFS mirror.
 
 ---
 
