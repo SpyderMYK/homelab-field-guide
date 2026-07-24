@@ -221,8 +221,12 @@ wrong turns:
 
 ## License & contributing
 
-Licensed under **[CC BY 4.0](LICENSE)** — use it, adapt it, even commercially; just give
-attribution. Corrections and additional war stories are welcome via issues or pull requests.
+Copyright © 2026 SpyderMYK. Licensed under **[CC BY 4.0](LICENSE)** (`SPDX-License-Identifier:
+CC-BY-4.0`) — use it, adapt it, even commercially; just give attribution:
+
+> "A Field Guide to a Small, Serious Homelab" by SpyderMYK (https://github.com/SpyderMYK), CC BY 4.0.
+
+Corrections and additional war stories are welcome via issues or pull requests.
 
 ---
 
