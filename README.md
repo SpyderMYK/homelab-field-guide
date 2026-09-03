@@ -1,3 +1,19 @@
+> ### This guide has moved
+>
+> Everything here now lives in **[SpyderMYK/homelab](https://github.com/SpyderMYK/homelab)**,
+> alongside the documents describing the lab these lessons came from — which is where
+> they make more sense than on their own.
+>
+> - The principles, networking gotchas and operational habits are in
+>   **[docs/principles.md](https://github.com/SpyderMYK/homelab/blob/main/docs/principles.md)**
+> - All four case studies are in
+>   **[case-studies/](https://github.com/SpyderMYK/homelab/tree/main/case-studies)**, unchanged
+>
+> This repository is archived and read-only. It stays up so existing links keep working;
+> nothing further will be added here. The licence is unchanged — CC BY 4.0, in either place.
+
+---
+
 # A Field Guide to a Small, Serious Homelab
 
 **Most homelab write-ups are hardware lists and copy-paste command dumps. This is the other
@@ -241,9 +257,12 @@ CC-BY-4.0`) — use it, adapt it, even commercially; just give attribution:
 
 > "A Field Guide to a Small, Serious Homelab" by SpyderMYK (https://github.com/SpyderMYK), CC BY 4.0.
 
-Corrections and additional war stories are welcome via issues or pull requests.
+Corrections and additional war stories are welcome in the active repository —
+[SpyderMYK/homelab](https://github.com/SpyderMYK/homelab) — where issues and pull
+requests are open. This one is archived and cannot accept them.
 
-**⭐ If a page here saved you a debugging session, star the repo — that's what helps the next
+**⭐ If a page here saved you a debugging session, star
+[SpyderMYK/homelab](https://github.com/SpyderMYK/homelab) — that's what helps the next
 person find it.**
 
 ---
